@@ -4,7 +4,7 @@
 💬 Ask me about anything  
 📫 How to reach me: __khafidp@pm.me__  
 😄 Pronouns: He/Him  
-⚡ Fun fact: Writing post on some blog  
+⚡ Fun fact: I have using linux distro (Debian/Arch) on workspaces
   - [Medium](https://khafidprayoga.medium.com)
   - [Dev.to](https://dev.to/khafidprayoga)
 
