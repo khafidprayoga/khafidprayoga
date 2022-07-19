@@ -17,5 +17,5 @@ python -m pip install --upgrade pip wheel
 python -m pip install httpie
 
 # Get My Latest Resume
-https khafidprayoga.my.id/profile
+python -m httpie https://khafidprayoga.my.id/profile
 ```
