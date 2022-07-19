@@ -10,3 +10,12 @@
 
  Support Me: __0xE81f86b7744B3b73ce64aecd9Ce59D596B953D40__  -->
 
+Know me more:
+```
+# Install httpie
+python -m pip install --upgrade pip wheel
+python -m pip install httpie
+
+# Get My Latest Resume
+https khafidprayoga.my.id/profile
+```
