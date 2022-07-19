@@ -12,10 +12,10 @@
 
 Know me more:
 ```
-# Install httpie Python 3.7 or newer 
-python -m pip install --upgrade pip wheel
-python -m pip install httpie
+# Install httpie (Python 3.7 or newer)
+python3 -m pip install --upgrade pip wheel
+python3 -m pip install --user httpie
 
-# Get My Latest Resume
-python -m httpie https://khafidprayoga.my.id/profile
+# Get my latest resume
+python3 -m httpie https://khafidprayoga.my.id/profile
 ```
