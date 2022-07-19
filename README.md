@@ -12,7 +12,7 @@
 
 Know me more:
 ```
-# Install httpie
+# Install httpie Python 3.7 or newer 
 python -m pip install --upgrade pip wheel
 python -m pip install httpie
 
